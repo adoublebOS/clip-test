@@ -1,0 +1,10 @@
+transformers
+timm
+fairscale
+torch
+torchvision
+Pillow
+fastapi
+uvicorn
+clip-interrogator
+python-multipart
